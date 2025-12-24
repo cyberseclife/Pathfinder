@@ -18,7 +18,7 @@ sudo mv /path/to/pathfinder /home/<username>/go/bin/pathfinder
 ***GOPATH must be set in either ~/.zshrc or ~/.bashrc***
 
 cyberseclife@debian-vm ~/Projects/pathfinder $ ./pathfinder sub -h
-
+```
   _____      _   _     __ _           _           
  |  __ \    | | | |   / _(_)         | |          
  | |__) |_ _| |_| |__| |_ _ _ __   __| | ___ _ __ 
